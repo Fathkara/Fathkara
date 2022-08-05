@@ -5,7 +5,7 @@
 
 <p>
   - 🖖 I'm currently working with HTML and CSS. <br>
-  - 🔧 I'm learning JavaScript<br>  
+  - 🔧 I'm learning Swift. <br>  
   - 💬 How to reach me: fath.karaa@gmail.com<br>      
 </p>
 
