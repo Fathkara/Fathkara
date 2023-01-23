@@ -10,7 +10,7 @@
 </p>
 
 ### Connect with me:
-[<img alt="linkedin" width="70px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fatih-kara34/)[<img alt="instagram" width="75px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/fath.karaa/)[<img alt="twitter" width="65px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/AllamEmlyanoFth)
+[<img alt="linkedin" width="70px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fatih-kara34/)[<img alt="instagram" width="75px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/fath.karaa/)[<img alt="twitter" width="65px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/FatihKara_34)
 
 ### Technologies:
 [<img alt="HTML" width="50px" src="https://user-images.githubusercontent.com/83499976/159563049-ae22c087-ca7b-4f25-935f-3dc892655052.png" />](https://www.w3schools.com/html/)[<img alt="CSS" width="50px" src="https://user-images.githubusercontent.com/83499976/159563194-387ccf36-c36c-42f2-b3cb-f06655ccf399.png" />](https://www.w3schools.com/css/)<img alt="swift" width="50px" src="https://seeklogo.com/images/S/swift-logo-E9182990F5-seeklogo.com.png" />
