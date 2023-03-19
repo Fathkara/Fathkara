@@ -6,7 +6,7 @@
 <p>
   - 🖖 I’m currently working on **Neon Apps**. <br>
   - 💬 Ask me about **Swift, iOS ...** <br>  
-  - 📫 How to reach me **fath.karaa@gmail.com**<br> 
+  - 📫 How to reach me fath.karaa@gmail.com<br> 
 </p>
 
 ### Connect with me:
